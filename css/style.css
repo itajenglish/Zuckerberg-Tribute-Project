@@ -18,11 +18,15 @@ background-color:#3B5998;
   margin-right:25%
 }
 
-#Text{
+.text{
 color:white;
 }
 
 #zuckPic1{
   width:60%;
   height:60%;
+}
+#fbBtn{
+  height:50px;
+  width:50px;
 }
