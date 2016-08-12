@@ -1,0 +1,28 @@
+body{
+  margin-top:60px;
+  background-color:#758ab6;
+}
+
+#headWell{
+background-color:#3B5998;
+ padding:2px;
+  margin-left:50px;
+  margin-right:50px;
+}
+
+#mainTextWell{
+
+ background-color:#3B5998;
+  padding-top:6px;
+  margin-left:25%;
+  margin-right:25%
+}
+
+#Text{
+color:white;
+}
+
+#zuckPic1{
+  width:60%;
+  height:60%;
+}
